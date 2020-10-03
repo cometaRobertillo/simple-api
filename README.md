@@ -42,7 +42,7 @@ npm run dev
 
 ###### Dependencies
 
-**Jest**@26.x
+- **Jest**@26.x
 
 ```
 npm install -g jest
