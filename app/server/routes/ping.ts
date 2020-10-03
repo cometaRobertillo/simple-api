@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import { NextFunction, Request, Response } from 'express';
 
 const ping = (_req: Request, res: Response, next: NextFunction) => {
