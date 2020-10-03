@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 import {NextFunction, Request, Response} from 'express';
 
 const loggerStart = (req: Request, _res: Response, next: NextFunction) => {
