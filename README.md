@@ -1,4 +1,4 @@
-# Project: Simple API Node + typescript
+# Project: Simple API Node + Typescript
 
 #### Local installing & build
 
